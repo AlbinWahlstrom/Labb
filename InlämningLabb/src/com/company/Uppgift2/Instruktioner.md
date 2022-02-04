@@ -1,0 +1,1 @@
+2.	Skapa en bilfabrik, med hjälp av factory pattern. (Simple factory pattern är okej)
